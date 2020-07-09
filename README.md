@@ -1,5 +1,5 @@
-### Hi there 👋🤓
-I'm a Developer from Encarnación, Paraguay 🇵🇾.
+### Hi 👋🤓
+ I'm a developer from Paraguay 🇵🇾.
 
 <!--
 **alycolbar/alycolbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
