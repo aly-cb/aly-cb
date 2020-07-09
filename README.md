@@ -1,4 +1,4 @@
-### Hi there 👋:relaxed:
+### Hi there 👋🤓
 
 <!--
 **alycolbar/alycolbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
