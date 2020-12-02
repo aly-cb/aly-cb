@@ -7,7 +7,7 @@
 const alycolbar = {
   code: ["Javascript", "Typescript", "Java"],
   tools: ["React", "Nodejs", "Spring Boot", "Angular"],
-  architecture: ["Model–view–controller", "BEM"],
+  architecture: ["Model–view–controller", "BEM", "BaaS"],
   preprocessor: ["SASS", "LESS"],
   databases: ["mongodb", "postgresql", "firebase"]
 }
