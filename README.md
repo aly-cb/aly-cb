@@ -1,6 +1,7 @@
 <!--<h2> Hi, I'm Alice <img src="https://pngimage.net/wp-content/uploads/2018/05/emoji-nerd-png.png" width="25"><img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_large.png?v=1571606113" width="25"></h2>-->
 
 <p> Software Developer, Data Science enthusiast & lifelong learner。</p>
+<p> Haru fan ♥</p>
 <!--
 ### About me:
 ```javascript
